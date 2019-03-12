@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29996" started-at="2019-03-05T16:17:50Z" finished-at="2019-03-05T16:18:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29996" started-at="2019-03-05T16:17:50Z" finished-at="2019-03-05T16:18:20Z">
+      <class name="co.testcase.yetestCase">
+        <test-method status="PASS" signature="step()[pri:0, instance:co.testcase.yetestCase@6d1e7682]" name="step" is-config="true" duration-ms="2558" started-at="2019-03-05T16:18:17Z" finished-at="2019-03-05T16:18:20Z">
+        </test-method> <!-- step -->
+        <test-method status="PASS" signature="f()[pri:0, instance:co.testcase.yetestCase@6d1e7682]" name="f" duration-ms="646" started-at="2019-03-05T16:18:20Z" finished-at="2019-03-05T16:18:20Z">
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="stepp()[pri:0, instance:co.testcase.yetestCase@6d1e7682]" name="stepp" is-config="true" duration-ms="0" started-at="2019-03-05T16:18:20Z" finished-at="2019-03-05T16:18:20Z">
+        </test-method> <!-- stepp -->
+      </class> <!-- co.testcase.yetestCase -->
+      <class name="co.testcase.xsxzglCase">
+        <test-method status="PASS" signature="step()[pri:0, instance:co.testcase.xsxzglCase@555590]" name="step" is-config="true" duration-ms="2370" started-at="2019-03-05T16:18:03Z" finished-at="2019-03-05T16:18:06Z">
+        </test-method> <!-- step -->
+        <test-method status="PASS" signature="tyong()[pri:0, instance:co.testcase.xsxzglCase@555590]" name="tyong" duration-ms="11751" started-at="2019-03-05T16:18:06Z" finished-at="2019-03-05T16:18:17Z">
+        </test-method> <!-- tyong -->
+        <test-method status="PASS" signature="stup2()[pri:0, instance:co.testcase.xsxzglCase@555590]" name="stup2" is-config="true" duration-ms="0" started-at="2019-03-05T16:18:17Z" finished-at="2019-03-05T16:18:17Z">
+        </test-method> <!-- stup2 -->
+      </class> <!-- co.testcase.xsxzglCase -->
+      <class name="co.testcase.logintestcase">
+        <test-method status="PASS" signature="step()[pri:0, instance:co.testcase.logintestcase@424c0bc4]" name="step" is-config="true" duration-ms="2811" started-at="2019-03-05T16:17:50Z" finished-at="2019-03-05T16:17:53Z">
+        </test-method> <!-- step -->
+        <test-method status="PASS" signature="qq()[pri:0, instance:co.testcase.logintestcase@424c0bc4]" name="qq" duration-ms="9848" started-at="2019-03-05T16:17:53Z" finished-at="2019-03-05T16:18:03Z">
+        </test-method> <!-- qq -->
+        <test-method status="PASS" signature="stup2()[pri:0, instance:co.testcase.logintestcase@424c0bc4]" name="stup2" is-config="true" duration-ms="2" started-at="2019-03-05T16:18:03Z" finished-at="2019-03-05T16:18:03Z">
+        </test-method> <!-- stup2 -->
+      </class> <!-- co.testcase.logintestcase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

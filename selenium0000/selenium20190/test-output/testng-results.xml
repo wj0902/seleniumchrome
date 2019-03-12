@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3664" started-at="2019-03-05T08:16:39Z" finished-at="2019-03-05T08:16:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3664" started-at="2019-03-05T08:16:39Z" finished-at="2019-03-05T08:16:43Z">
+      <class name="co.testcase.yetestCase">
+        <test-method status="PASS" signature="step()[pri:0, instance:co.testcase.yetestCase@71e7a66b]" name="step" is-config="true" duration-ms="2961" started-at="2019-03-05T16:16:39Z" finished-at="2019-03-05T16:16:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step -->
+        <test-method status="PASS" signature="f()[pri:0, instance:co.testcase.yetestCase@71e7a66b]" name="f" duration-ms="690" started-at="2019-03-05T16:16:42Z" finished-at="2019-03-05T16:16:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="stepp()[pri:0, instance:co.testcase.yetestCase@71e7a66b]" name="stepp" is-config="true" duration-ms="0" started-at="2019-03-05T16:16:43Z" finished-at="2019-03-05T16:16:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stepp -->
+      </class> <!-- co.testcase.yetestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
